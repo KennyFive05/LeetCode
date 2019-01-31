@@ -1,7 +1,6 @@
 package LeetCode_100.LeetCode_10;
 
-import LeetCode_100.LeetCode_10.LeetCode_2;
-import LeetCode_100.LeetCode_10.ListNode;
+import Model.ListNode;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
